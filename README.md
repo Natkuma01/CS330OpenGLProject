@@ -4,6 +4,11 @@ This was my first OpenGL project, where I created a simple 3D bathroom sink scen
 rendering pipeline, including how vertices, transformations, and shaders work together to produce graphics on screen. It gave me 
 foundational experience in computer graphics and helped me understand how low-level rendering connects to building visual applications.
 
+<p align="center">
+<img width="400" height="684" alt="Screenshot 2025-08-14 at 11 21 46 PM" src="https://github.com/user-attachments/assets/15df91a9-4a82-44ff-bc87-5d3558f32143" />
+</p>
+
+
 ## **How do I approach designing software?** 💡
 
 Starting from the beginning is never easy, so I began by observing my daily surroundings. I chose to focus on just one object at first, 
